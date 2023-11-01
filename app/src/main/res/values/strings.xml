@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blog de Internet</string>
+    <string name="title">Titulo</string>
+    <string name="content">Contenido</string>
+    <string name="date">Fecha</string>
+    <string name="autor">Autor</string>
+    <string name="guardar">Guardar</string>
+    <string name="ok">Ok</string>
+</resources>
